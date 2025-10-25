@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+This (Motion115) is the legacy account name for Ruishi (Ray) Zou, who has migrated his account name to (ruishizou).
+
+ℹ️ If the default redirect from GitHub service does not work, please substitute `Motion115` with `ruishizou` for all `github.io` websites and repo names.
+
+🔭 Please feel free to send a PR to his new account (repo: ruishizou.github.io) if you spot a website link that does not redirect. Apologies for the inconvenience!
+
 <!--
 **Motion115/Motion115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
