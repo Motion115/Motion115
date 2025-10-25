@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This (Motion115) is the legacy account name for Ruishi (Ray) Zou, who has migrated his account name to (ruishizou).
+This (Motion115) is the legacy account name for Ruishi (Ray) Zou, who has migrated his account name to ([ruishizou](https://github.com/ruishizou)).
 
 ℹ️ If the default redirect from GitHub service does not work, please substitute `Motion115` with `ruishizou` for all `github.io` websites and repo names.
 
